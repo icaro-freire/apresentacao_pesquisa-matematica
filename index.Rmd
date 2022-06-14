@@ -401,21 +401,59 @@ knitr::include_graphics("img/gnu-octave-logo-lnx.png")
 ---
 ## Versionamento e hospedagem de arquivos
 
---
-- [Git](https://git-scm.com/)
+.panelset[
 
---
-- [GitHub](https://github.com/)/[Codeberg](https://codeberg.org/)
+.panel[.panel-name[Git]
+
+[
+```{r, echo=FALSE, fig.align='center', out.width='80%'}
+knitr::include_graphics("img/Git-Logo-1788C.png")
+```
+](https://git-scm.com/)
+
+]
+
+.panel[.panel-name[GitHub]
+
+[
+```{r, echo=FALSE, fig.align='center', out.width='40%'}
+knitr::include_graphics("img/github-nome.png")
+```
+](https://github.com/)
+
+]
+
+]
+
 
 ---
 ## Editor de textos
 
---
-- [Neovim](https://neovim.io/)
+.panelset[
 
---
-- [VSCode](https://code.visualstudio.com/)
-  
+.panel[.panel-name[Neovim]
+
+[
+```{r, echo=FALSE, fig.align='center', out.width='50%'}
+knitr::include_graphics("img/neovim_logo.png")
+```
+](https://neovim.io/)
+
+]
+
+.panel[.panel-name[VSCode]
+
+[
+```{r, echo=FALSE, fig.align='center', out.width='40%'}
+knitr::include_graphics("img/vscode.png")
+```
+](https://code.visualstudio.com/)
+
+]
+
+]
+
+
 
 <!----------------------------------------------------------------------------->
 
